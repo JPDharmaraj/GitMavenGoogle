@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10718" started-at="2022-04-29T10:15:08Z" finished-at="2022-04-29T10:15:19Z">
+  <suite name="Default suite" duration-ms="17995" started-at="2022-05-04T01:12:33Z" finished-at="2022-05-04T01:12:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10718" started-at="2022-04-29T10:15:08Z" finished-at="2022-04-29T10:15:19Z">
+    <test name="Default test" duration-ms="17995" started-at="2022-05-04T01:12:33Z" finished-at="2022-05-04T01:12:51Z">
       <class name="bingPackage.A1_BingScreenshot">
-        <test-method status="PASS" signature="testGoogle()[pri:0, instance:bingPackage.A1_BingScreenshot@1ce92674]" name="testGoogle" duration-ms="10660" started-at="2022-04-29T20:15:08Z" finished-at="2022-04-29T20:15:19Z">
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:bingPackage.A1_BingScreenshot@1ce92674]" name="testGoogle" duration-ms="17929" started-at="2022-05-04T11:12:33Z" finished-at="2022-05-04T11:12:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogle -->

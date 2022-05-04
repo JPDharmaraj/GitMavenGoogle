@@ -25,6 +25,6 @@ public class A1_BingScreenshot {
 		wd.findElement(By.name("q")).sendKeys(Keys.ENTER);
 		
 		File src= ((TakesScreenshot)wd).getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(src, new File("screenshot/bing.png"));
+		FileUtils.copyFile(src, new File("screenshot/binggit .png"));
 	}
 }
